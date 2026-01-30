@@ -1,5 +1,5 @@
 # High-Availability-enhancements
-High Availability (HA) Enhancements for modern DC/AI DC and automotive infrastructures
+High Availability (HA) Enhancements for modern DC/AI DC, Edge and automotive infrastructures
 
 ## It’s a new physical-layer HA channel purpose-built for cluster heartbeat and quorum traffic that is:
 - Independent of Ethernet fabric
