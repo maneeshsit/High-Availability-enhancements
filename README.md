@@ -99,7 +99,7 @@ High Availability (HA) Enhancements for modern DC/AI DC, Edge and automotive inf
   - More bandwidth for storage/app traffic
   - Cleaner SDN behavior
 ### Implementation Components
-- UWB chipsets (Qorvo / Decawave class)
+- UWB chipsets (Qorvo / Decawave / Xthings / Spark microsystems class)
 - USB/UART interface to server
 - Lightweight driver + heartbeat agent
 - Cluster configuration template
