@@ -121,6 +121,17 @@ High Availability (HA) Enhancements for modern DC/AI DC, Edge and automotive inf
     - Hyper-dense server chassis
 - This is a patent-grade architectural enhancement for modern datacenters.
   <img width="823" height="707" alt="image" src="https://github.com/user-attachments/assets/89e658c0-799d-45e7-822f-576fbd4b4456" />
+  ### Features
+  - World's first wearable platform with NPU for on-device AI
+  - Up to 12 TOPS AI performance with support for 2 billion parameter models
+  - Up to 5x single-core CPU improvement and up to 7x faster GPU
+  - Up to 30% more battery life with ultra-efficient 3nm architecture
+  - Fast charging: up to 50% charge in under 10 minutes
+  - First-of-its-kind hexa-connectivity solution: 5G RedCap, Micro-Power Wi-Fi, UWB, Bluetooth 6.0, GNSS, and NB-NTN
+  - Over 50 sensors for rich contextual data and improved AI perception
+  - Intelligent Low-Power Islands for power optimization
+  - Advanced suite of connectivity solutions for reliable multi-modal connection
+  - Designed to empower personal AI ecosystem with smarter, more secure and personalized experiences
 
     
 
