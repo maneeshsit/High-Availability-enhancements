@@ -119,9 +119,10 @@ High Availability (HA) Enhancements for modern DC/AI DC, Edge and automotive inf
     - SDDCs
     - Blade servers
     - Hyper-dense server chassis
-- This is a patent-grade architectural enhancement for modern datacenters.
+ - This is a patent-grade architectural enhancement for modern datacenters.
   <img width="823" height="707" alt="image" src="https://github.com/user-attachments/assets/89e658c0-799d-45e7-822f-576fbd4b4456" />
-  ### Features
+  
+### Features
   - World's first wearable platform with NPU for on-device AI
   - Up to 12 TOPS AI performance with support for 2 billion parameter models
   - Up to 5x single-core CPU improvement and up to 7x faster GPU
