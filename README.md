@@ -120,7 +120,8 @@ High Availability (HA) Enhancements for modern DC/AI DC, Edge and automotive inf
     - Blade servers
     - Hyper-dense server chassis
 - This is a patent-grade architectural enhancement for modern datacenters.
-  
+  <img width="823" height="707" alt="image" src="https://github.com/user-attachments/assets/89e658c0-799d-45e7-822f-576fbd4b4456" />
+
     
 
   
